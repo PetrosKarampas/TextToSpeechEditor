@@ -36,5 +36,5 @@ and the pitch.
 	* Adapter Pattern
 	
 ## Class Diagram
-![enter image description here](https://photos.google.com/photo/AF1QipNLwMGbkGFjLp2xGlGQCsFvZ4Q0Br1qe2dFJZy0)
-# TextToSpeechEditor
+![ClassDiagram](https://github.com/PetrosKarampas/TextToSpeechEditor/blob/master/ClassDiagram.png)
+
